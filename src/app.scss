@@ -1,0 +1,19 @@
+.table {
+  display: contents;
+  border: 1px solid #888;
+}
+
+.row {
+  border: 1px solid #888;
+  display: inline-block;
+}
+
+.cell {
+  border: 1px solid #888;
+  width: 10px;
+  height: 10px;
+}
+
+.enemy {
+  background-color: #fb93db;
+}
